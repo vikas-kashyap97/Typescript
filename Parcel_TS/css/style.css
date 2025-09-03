@@ -1,0 +1,14 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1, .clickMe {
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}

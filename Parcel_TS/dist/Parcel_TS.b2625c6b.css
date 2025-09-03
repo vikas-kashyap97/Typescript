@@ -1,0 +1,15 @@
+body {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+}
+
+h1, .clickMe {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+}
+/*# sourceMappingURL=Parcel_TS.b2625c6b.css.map */
